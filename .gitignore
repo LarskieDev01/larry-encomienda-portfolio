@@ -1,0 +1,16 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Local tooling and environment files
+node_modules/
+.env
+.env.*
+!.env.example
+.wrangler/
+
